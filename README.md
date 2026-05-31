@@ -1,11 +1,6 @@
 # Restaurant Management System (Minor Project)
 
-This is a frontend-based Restaurant Management System developed using HTML, CSS, and JavaScript.
-
-## Team Members
-- Panchakshari Deepthi
-- Tata Durga Bhavani
-- Ulasi Gnaneswari
+This is a frontend-based Restaurant Management System developed using HTML, CSS, and JavaScript
 
 ## My Contribution
 - Designed Home Page
